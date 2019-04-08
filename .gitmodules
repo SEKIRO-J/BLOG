@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/SEKIRO-J/SEKIRO-J.github.io.git
-	branch = master
