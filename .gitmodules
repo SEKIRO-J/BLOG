@@ -6,3 +6,8 @@
 	path = themes/galaxy
 	url = https://github.com/SEKIRO-J/galaxy.git
 	branch = master
+
+[submodule "content/post"]
+        path = content/post
+        url = https://github.com/SEKIRO-J/PythonNotes.git
+        branch = master
