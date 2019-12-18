@@ -39,3 +39,6 @@ weight = 109
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = true
+
+[blackfriday]
+  extensions = ["hardLineBreak"]
