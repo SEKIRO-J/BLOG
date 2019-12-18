@@ -1,6 +1,0 @@
-#!/bin/bash
-rm -r public
-git clone git@github.com:SEKIRO-J/SEKIRO-J.github.io.git
-mv SEKIRO-J.github.io.git public
-
-echo "now you can edit your website elements, don't forget to push your changes and rebuild"

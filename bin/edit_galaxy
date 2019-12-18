@@ -1,6 +1,6 @@
 #!/bin/bash
-rm -r ../themes/galaxy
+rm -rf themes/galaxy
 git clone git@github.com:SEKIRO-J/galaxy.git
 mv galaxy themes/galaxy
 
-echo "now you can edit theme galaxy, don't forget to push your changes and rebuild"
+echo -e "\nnow you can edit theme galaxy, \ndon't forget to push your changes and rebuild"
