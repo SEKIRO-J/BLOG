@@ -1,13 +1,13 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/SEKIRO-J/SEKIRO-J.github.io.git
+	url = git@github.com:SEKIRO-J/SEKIRO-J.github.io.git
 	branch = master
 [submodule "themes/galaxy"]
 	path = themes/galaxy
-	url = https://github.com/SEKIRO-J/galaxy.git
+	url = git@github.com:SEKIRO-J/galaxy.git
 	branch = master
 
 [submodule "content/post"]
         path = content/post
-        url = https://github.com/SEKIRO-J/PythonNotes.git
+        url = git@github.com:SEKIRO-J/BlogNotes.git
         branch = master
